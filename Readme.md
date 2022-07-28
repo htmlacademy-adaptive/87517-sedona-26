@@ -1,7 +1,7 @@
 # Личный проект «Седона» 
 
 * Студент: [Анатолий Воронецкий](https://up.htmlacademy.ru/adaptive/26/user/87517).
-* Наставник: `Неизвестно`.
+* Наставник: [Руслан Бреев](https://htmlacademy.ru/profile/blckwltz).
 
 ---
 
